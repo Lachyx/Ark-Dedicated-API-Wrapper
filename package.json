@@ -1,6 +1,6 @@
 {
   "name": "ark-dedicated-api-wrapper",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "main": "packages/main.js",
   "scripts": {
