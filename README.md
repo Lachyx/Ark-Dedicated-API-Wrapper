@@ -4,6 +4,12 @@ Fetches the arkdedicated api for server data easily
 
 https://github.com/Lachyx/Ark-Dedicated-API-Wrapper
 
+# Installation 
+
+```bash
+npm i ark-dedicated-api-wrapper
+```
+
 # Example Code
 
 ```javascript
